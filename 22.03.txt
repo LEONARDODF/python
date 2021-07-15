@@ -1,0 +1,10 @@
+#### 22/03 PYTHON devcode ###
+Variavel "IF"
+
+	if mediaFinal >= 6:
+		print ("Partiu ferias!!!!")
+		if mediaFinal >= 9:
+			print ("Voce e um aluno milll")
+	elife mediaFinal >= 4 and mediaFinal < 6:
+		print ("so mais um meszinho")
+	

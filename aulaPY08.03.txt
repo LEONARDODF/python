@@ -1,0 +1,9 @@
+###### DevCodSec 08.03 ######
+Variaveis python:
+	upper -> deixa toda a mensagem maiuscula. 
+	lower -> todas minusculas. 
+	title -> primeiras letras em maiusculo.
+	l ou r strip (ou apenas 'strip') -> remove espaços. 
+
+
+

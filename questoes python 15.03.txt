@@ -1,0 +1,76 @@
+### Tipos de variáveis em Python ###
+1)
+dentro dos numeros podemos ter as seguintes opções:
+nt :inteiros com sinal. Podem ser de qualquer tamanho
+float :valores reais em ponto flutuante
+complex : Números complexos
+
+Variáveis do tipo Booleano
+podem assumir dois estados:
+True ou False
+
+Variavel do tipo lista 
+"Quem descobriu o Brazil?",
+          "Em que ano?",
+          "Qual o regime político do Brasil hoje?",
+          "Qual o principal problema do Brasil hoje?",
+          "Qual é a maior cidade brasileira?"]
+
+Variavel tipo string:
+	Uma variável string em Python é delimitada pelo oque 
+	voce ira desejar iniciar uma string ex: (" ") ou (' ')
+	e assim por diante.
+
+Variavel tipo tupla:
+Tuplas são muito parecidas com listas, porém ao 
+contrário destas são apenas para leitura.
+
+Variavel tipo dicionario:
+
+Os dicionários Python são estruturas
+de dados nas quais é realizada uma associação 
+entre uma chave (key) e um valor correspondente (value)
+
+2)
+podemos ter o exemplo de variavel local,
+Esta variável local só pode ser utilizada depois que foi
+definida dentro da função.
+
+podemos usar variaves como globais, usando a variavel global 
+isso permitira você utilizar o valor da global dentro da 
+função, sem efetivamente ter que declarar este 
+valor dentro da função. Uma diferença entre a variável global e a local no Python  é que a variável global pode ser declarada depois da função que a utilizará, sem que ocorra um erro semelhante ao descrito acima.
+Isto pode ser visto no exemplo abaixo
+
+3)
+Posso comparar os objetos quando utilizarmos o termo
+(==).
+
+
+4) 
+= faz a referencia de recebimento de valor
+ex: nota = 10 
+== comparação de igualdades 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
